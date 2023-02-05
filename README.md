@@ -9,3 +9,6 @@
 I'm reminded of a calvin and hobbes comic
 ![calvin and hobbes](./calvinAndHobbes.webp)
 I imagine Calvin's dad would not enjoy slack
+
+## Comment - Joshua Forlenza
+<p>I find the "hyperemployment" bit to be be very interesting, and it sort of addresses the concerns I had about the article I wrote about. It would be huge pain if something as useful as this AI only made work harder for software engineers. Ideally ChatGPT would be used for a programmer's busywork and maybe as a more efficient Google search when one has questions relating to algorithms and runtime. However, I also totally see the fears you wrote about in the first paragraph to be a frustrating possiblity.</p>
